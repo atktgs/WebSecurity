@@ -1,0 +1,13 @@
+Retrofit sponge pentest test cases
+
+Cover all test cases and summarize:
+	All Tools used 
+	All test cases' detail/result
+	Additional knowledges/skills to run/use each tool 
+	Dev/qa/ops involvement for each test cases
+
+Dev Involvement
+
+QA Involvement
+
+OPS Involvement
