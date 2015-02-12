@@ -1,4 +1,4 @@
-Retrofit sponge pentest test cases
+Retrofit sponge pentest test result with actual test cases
 
 Cover all test cases and summarize:
 	All Tools used 
@@ -11,3 +11,8 @@ Dev Involvement
 QA Involvement
 
 OPS Involvement
+
+Reporting
+	Excel file 
+	CSV file 
+	TXT file 
