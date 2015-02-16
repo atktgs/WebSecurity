@@ -64,11 +64,11 @@
 * OTG-INPVAL-003 Testing for HTTP Verb Tampering
 * OTG-INPVAL-004 Testing for HTTP Parameter pollution
 * OTG-INPVAL-005 Testing for SQL Injection
-** Oracle Testing
-** SQL Server Testing
-** Testing PostgreSQL
-** MS Access Testing
-** Testing for NoSQL injection
+  * Oracle Testing
+  * SQL Server Testing
+  * Testing PostgreSQL
+  * MS Access Testing
+  * Testing for NoSQL injection
 * OTG-INPVAL-006 Testing for LDAP Injection
 * OTG-INPVAL-007 Testing for ORM Injection
 * OTG-INPVAL-008 Testing for XML Injection
@@ -76,13 +76,13 @@
 * OTG-INPVAL-010 Testing for XPath Injection
 * OTG-INPVAL-011 IMAP/SMTP Injection
 * OTG-INPVAL-012 Testing for Code Injection
-** Testing for Local File Inclusion
-** Testing for Remote File Inclusion
+  * Testing for Local File Inclusion
+  * Testing for Remote File Inclusion
 * OTG-INPVAL-013 Testing for Command Injection
 * OTG-INPVAL-014 Testing for Buffer overflow
-** Testing for Heap overflow
-** Testing for Stack overflow
-** Testing for Format string
+  * Testing for Heap overflow
+  * Testing for Stack overflow
+  * Testing for Format string
 * OTG-INPVAL-015 Testing for incubated vulnerabilities
 * OTG-INPVAL-016 Testing for HTTP Splitting/Smuggling
 
