@@ -1,0 +1,3 @@
+# Testing for sensitive data transmitted in clear-text
+# Basic auth over HTTP
+

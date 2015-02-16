@@ -1,0 +1,16 @@
+# Information Gathering INFO
+# Configuration and Deploy Management Testing CONFIG
+# Identity Management Testing IDENT
+# Authentication Testing AUTHN
+# Authorization Testing AUTHZ
+# Session Management Testing SESS
+# Input Validation Testing INPVAL
+# Error Handling ERR
+# Cryptography CRYPST
+curl
+nmap (ssl-cert,ssl-enum-ciphers)
+openssl
+sslyze.py	https://github.com/iSECPartners/sslyze	
+sslbreacher	http://bl0g.yehg.net/2014/07/ssl-breacher-yet-another-ssl-test-tool.html
+# Business Logic Testing BUSLOGIC
+# Client Side Testing CLIENT
